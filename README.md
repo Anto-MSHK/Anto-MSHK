@@ -3,7 +3,7 @@
 <code>💡 Skills: 
 [JS, Node.js](SKILLS.md);
 [C++](SKILLS.md)
-</code>
+</code> 
 <code>🧻 [Projects](https://github.com/Anto-MSHK?tab=repositories)</code>
 <code>🧑‍💻 Languages: JavaScript, C++</code><br>
 <code>💬 telegram: [@antomshk](https://t.me/antomshk)</code>
