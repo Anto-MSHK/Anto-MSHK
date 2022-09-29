@@ -5,4 +5,4 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: node.js</code>
 <code>💬 telegram: [@antomshk](https://t.me/antomshk)</code>
-<code>📫 [anjiilop25](gmailto:anjiilop25)</code>
+<code>📫 [anjiilop25](mailto:anjiilop25)</code>
