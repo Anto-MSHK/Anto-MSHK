@@ -2,7 +2,7 @@
 <code>👷 Speciality: Frontend / Backend / C++ Developer </code><br>
 <code>💡 Skills: 
 [JS, Node.js](SKILLS.md);
-[C++](SKILLS.md)
+[C++](SKILLS.md) 
 </code> 
 <code>🧻 [Projects](https://github.com/Anto-MSHK?tab=repositories)</code>
 <code>🧑‍💻 Languages: JavaScript, C++</code><br>
