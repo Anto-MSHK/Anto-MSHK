@@ -3,9 +3,8 @@
 <code>💡 Skills: 
 [JS, Node.js](SKILLS.md);
 [C++](SKILLS.md)
-</code><br>
-<code>🧻 [Projects](PROJECTS.md)</code><br>
+</code>
+<code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C++</code><br>
-<code>📦 Tech stack: node.js</code><br>
-<code>💬 telegram: [@antomshk](https://t.me/antomshk)</code><br>
-<code>📫 [anjiilop25](mailto:anjiilop25@gmail.com)</code><br>
+<code>💬 telegram: [@antomshk](https://t.me/antomshk)</code>
+<code>📫 [anjiilop25](mailto:anjiilop25@gmail.com)</code>
