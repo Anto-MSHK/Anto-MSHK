@@ -1,4 +1,4 @@
-<code>🎓 Student: TI (branch) of DSTU in Azov / IST-21</code>
+<code>🎓 Student: TI (branch) of DSTU in Azov / IST-41</code>
 <code>👷 Speciality: Frontend / Backend / C++ Developer </code><br>
 <code>💡 Skills: [JS(Node.js)](SKILLS.md), [C++](SKILLS.md)</code> 
 <code>🧻 [Projects](https://github.com/Anto-MSHK?tab=repositories)</code>
